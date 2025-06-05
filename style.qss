@@ -1,0 +1,34 @@
+QWidget {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: #007ACC;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #005FA3;
+}
+
+QComboBox, QLineEdit {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+QProgressBar {
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    text-align: center;
+}
+
+QProgressBar::chunk {
+    background-color: #007ACC;
+    width: 20px;
+    border-radius: 5px;
+}
