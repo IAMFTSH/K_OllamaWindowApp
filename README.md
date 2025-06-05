@@ -1,0 +1,2 @@
+# OllamaAppwindow本地端可视化操作
+OllamaAppwindow本地端可视化操作，使用qwen3编写
